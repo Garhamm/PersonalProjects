@@ -30,7 +30,7 @@ body {
     align-items: center;
     position: relative;
 }
-//
+
 .cell:first-child,
 .cell:nth-child(2),
 .cell:nth-child(3) {
@@ -38,7 +38,7 @@ body {
 }
 
 .cell:nth-child(3n + 1) {
-    border-left: none;
+    border-left: none;  
 }
 
 .cell:nth-child(3n + 3) {
