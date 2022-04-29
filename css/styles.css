@@ -30,7 +30,7 @@ body {
     align-items: center;
     position: relative;
 }
-
+//
 .cell:first-child,
 .cell:nth-child(2),
 .cell:nth-child(3) {
